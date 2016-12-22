@@ -1,0 +1,39 @@
+name: JetSetFm
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c45f171-fa26-4f44-a77f-9b2243c2a1eb.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/223aa791-81fc-45a1-adf4-3faac51c2ebd.jpg
+layout_spectrum: 0.2719525477505925
+typography_spectrum: 0.6752559151254263
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.20256919223898193
+  lightness: 0.3919126596081412
+  saturation: 0.06147740435002759
+  rhythmicContrast: 0.375284406809542
+purpose:
+  - type: external
+    label: Listen Live Now!
+    url: 'http://player.streamlicensing.com/1641?l&stream_id=2777'
+  - type: contact
+    label: JetSet Staff
+    url: 'mailto:jetsetfm@gmail.com'
+title: We Make You Move
+description: Open Format Radio 24/7
+author: {}
+content_rating:
+  adult: false
+navigation:
+  - name: Listen Live
+    id: 287efcc8-fa6f-424a-b019-c71c3f054c12
+    type: content
+content: []
+github: true

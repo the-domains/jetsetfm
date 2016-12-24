@@ -1,5 +1,6 @@
-layout_spectrum: 0.9120343809098116
 typography_spectrum: 0.4610333962042327
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#1A1F2B'
@@ -11,31 +12,30 @@ color:
   lightness: 0.10577128426826532
   saturation: 0.4750449804886991
   rhythmicContrast: 0.06919471551793267
-coverPrefs:
-  filter: false
-name: JetSetFm
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c45f171-fa26-4f44-a77f-9b2243c2a1eb.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/223aa791-81fc-45a1-adf4-3faac51c2ebd.jpg
+github: true
 opengraph:
   type: ''
   appId: ''
-purpose:
-  - type: external
-    label: Listen Live Now!
-    url: 'http://player.streamlicensing.com/1641?l&stream_id=2777'
-  - type: contact
-    label: JetSet Staff
-    url: 'mailto:jetsetfm@gmail.com'
-title: We Make You Move
-description: Open Format Radio 24/7
+layout_spectrum: 0.9120343809098116
 author: {}
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/223aa791-81fc-45a1-adf4-3faac51c2ebd.jpg
+name: JetSetFm
 navigation:
   - name: Listen Live
     id: 287efcc8-fa6f-424a-b019-c71c3f054c12
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c45f171-fa26-4f44-a77f-9b2243c2a1eb.jpg
+title: We Make You Move
 content: []
-github: true
+coverPrefs:
+  filter: false
+description: Open Format Radio 24/7
+purpose:
+  - type: external
+    label: Listen Live Now
+    url: 'http://www.streamlicensing.com/play/player.php?sid=1641&stream_id=2777'
+  - type: contact
+    label: JetSet Staff
+    url: 'mailto:jetsetfm@gmail.com'

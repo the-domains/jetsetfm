@@ -1,6 +1,13 @@
+name: JetSetFm
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c45f171-fa26-4f44-a77f-9b2243c2a1eb.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/223aa791-81fc-45a1-adf4-3faac51c2ebd.jpg
+layout_spectrum: 0.9120343809098116
 typography_spectrum: 0.4610333962042327
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#1A1F2B'
@@ -12,30 +19,58 @@ color:
   lightness: 0.10577128426826532
   saturation: 0.4750449804886991
   rhythmicContrast: 0.06919471551793267
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.9120343809098116
-author: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/223aa791-81fc-45a1-adf4-3faac51c2ebd.jpg
-name: JetSetFm
-navigation:
-  - name: Listen Live
-    id: 287efcc8-fa6f-424a-b019-c71c3f054c12
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c45f171-fa26-4f44-a77f-9b2243c2a1eb.jpg
-title: We Make You Move
-content: []
-coverPrefs:
-  filter: false
-description: Open Format Radio 24/7
 purpose:
   - type: external
     label: Listen Live Now
     url: 'http://www.streamlicensing.com/play/player.php?sid=1641&stream_id=2777'
-  - type: contact
-    label: JetSet Staff
-    url: 'mailto:jetsetfm@gmail.com'
+  - type: internal
+    label: Additional Content
+    item: 2ce02c15-5ff5-4e37-aed7-032e6f1f4ed9
+title: We Make You Move
+description: Open Format Radio 24/7
+author: {}
+content_rating:
+  adult: false
+navigation:
+  - name: Supa DJ Peter Parker
+    id: d431f603-f38a-4fc5-90df-37b050e3dca4
+    type: content
+  - name: The JetSet Runway
+    id: bc53634b-eee0-458b-b554-6ca275b9afe5
+    type: content
+  - name: Dj jena red
+    id: 01f763b1-7357-4301-92be-c526e06107ba
+    type: content
+  - name: In Flight Podcasts
+    id: 62078c00-6d85-4f93-aba3-90324f64e436
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fog4IwhU7fgg%3Fstart%3D2%26feature%3Doembed%26start%3D2&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dog4IwhU7fgg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fog4IwhU7fgg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/og4IwhU7fgg?t=2s'
+      keywords: []
+      title: Slate NY 2016 Promo Video
+      publisher:
+        name: YouTube
+        domain: youtu.be
+        url: 'https://www.youtube.com/'
+        favicon: 'https://www.youtube.com/favicon.ico'
+      author:
+        - name: J L
+          url: 'https://www.youtube.com/channel/UC-T4Aj7SPn2sS_7TuCvMvDg'
+          avatar: {}
+      starred: false
+      description: Slate on the weekends!
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true

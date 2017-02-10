@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: Will Anthony Anderson & Nephew Tommy Get their Black Card Revoked? - YouTube
-datePublished: '2017-02-05T06:09:58.069Z'
-dateModified: '2017-02-05T06:09:55.449Z'
+datePublished: '2017-02-10T14:49:40.241Z'
+dateModified: '2017-02-10T14:48:58.781Z'
 publisher: {}
 author:
   - avatar: {}
@@ -21,7 +21,7 @@ _context: 'http://schema.org'
 ---
 Bobby Pen! On The Runway
 
-<article style=""><img src="https://i.ytimg.com/vi/ZoUN1T9ITwU/hqdefault.jpg" /><h1>Will Anthony Anderson &amp; Nephew Tommy Get their Black Card Revoked? - YouTube</h1><p>Robert Rhodes shared a video</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/788cb55e097caf90f85373d1be4a1750/croprotate.jpg?cropheight=280&amp;cropwidth=480&amp;degrees=0&amp;input=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZoUN1T9ITwU%2Fhqdefault.jpg&amp;x=0&amp;y=40" /><h1>Will Anthony Anderson &amp; Nephew Tommy Get their Black Card Revoked? - YouTube</h1><p>Robert Rhodes shared a video</p></article>
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ecbb22262d5b836913611bff510ef4810768ba7.jpg" /><h1>Tank talks Acting in New Edition BET + Watching Luke James &amp; Cast Truly Bond - YouTube</h1></article>
 

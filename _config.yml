@@ -23,6 +23,9 @@ purpose:
   - type: external
     label: Listen Live Now
     url: 'http://www.streamlicensing.com/play/player.php?sid=1641&stream_id=2777'
+  - type: internal
+    label: More Content
+    item: decd21ed-5b90-4866-8ca1-172e46315db5
 title: We Make You Move
 description: Open Format Radio 24/7
 author: {}

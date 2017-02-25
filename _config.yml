@@ -1,13 +1,5 @@
-name: JetSetFm
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c45f171-fa26-4f44-a77f-9b2243c2a1eb.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/223aa791-81fc-45a1-adf4-3faac51c2ebd.jpg
-layout_spectrum: 0.9120343809098116
-typography_spectrum: 0.4610333962042327
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.45197851397834793
+typography_spectrum: 0.036789338627442866
 color:
   brandColors:
     - '#1A1F2B'
@@ -15,10 +7,20 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-  brandStrength: 0.9250565447095819
-  lightness: 0.10577128426826532
-  saturation: 0.4750449804886991
-  rhythmicContrast: 0.06919471551793267
+  brandStrength: 0.38739068239881186
+  lightness: 0.4680938074013938
+  saturation: 0.13413071786486866
+  rhythmicContrast: 0.00032543980212199807
+coverPrefs:
+  filter: false
+name: JetSetFm
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c45f171-fa26-4f44-a77f-9b2243c2a1eb.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/223aa791-81fc-45a1-adf4-3faac51c2ebd.jpg
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: external
     label: Listen Live Now

@@ -23,7 +23,7 @@ opengraph:
   appId: ''
 purpose:
   - type: external
-    label: Listen Live Now
+    label: LISTEN LIVE
     url: 'http://www.streamlicensing.com/play/player.php?sid=1641&stream_id=2777'
   - type: internal
     label: More Content
